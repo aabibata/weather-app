@@ -31,7 +31,4 @@ geocode.geocodeAddress(argv.address, (errorMessage, results) => {
   }
 });
 
-
-//weather.getWeather(); appel de la fonction sans param
-      
-
+//weather.getWeather(); appel de la fonction sans param    
